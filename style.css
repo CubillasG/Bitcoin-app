@@ -3,6 +3,9 @@
     font-family: 'Overpass', sans-serif;
     font-weight: bold;
 }
+body{
+    background: blue;
+}
 
 main{
     max-width: 350px;
@@ -16,8 +19,8 @@ main{
 }
 
 .coin{
-    width: 30px;
-    height: 30px;
+    width: 35px;
+    height: 35px;
     border-radius: 50%;
     display: flex;
     justify-content: center;
